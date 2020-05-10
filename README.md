@@ -1,1 +1,1 @@
-(jahoo.github.io)[https://jahoo.github.io]
+[jahoo.github.io](https://jahoo.github.io)
