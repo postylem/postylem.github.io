@@ -1,6 +1,13 @@
 /**
  * Site header
  */
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
