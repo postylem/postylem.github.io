@@ -9,6 +9,7 @@ Organized by Mima.
 
 Twendercrafters: 
 
+- Ian and Jasmine
 - Aliza and John
 - Zevi and Zoe
 - Katie and Jacob (_Tacko & Jebia_)
