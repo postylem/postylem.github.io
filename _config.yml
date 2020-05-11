@@ -23,3 +23,9 @@ markdown: kramdown
 # \\(\LaTeX code\\) (for inline)
 
 theme: jekyll-theme-minimal
+
+
+collections:
+  bluebird:
+    output: true
+    permalink: /:path
