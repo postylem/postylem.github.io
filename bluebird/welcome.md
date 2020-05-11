@@ -5,8 +5,8 @@ title:
 
 ### Hi! 
 
-<a  href="tackojebia/tackojebia.jpg">
-<img src="tackojebia/tackojebia.jpg" width="200" class="centerimg"/>
+<a  href="tackojebia.jpg">
+<img src="tackojebia.jpg" width="200" class="centerimg"/>
 </a>
 
 We are Tacko and Jebia, and we're excited to offer to you our self-guided tour of South Natick. Perfect for Sundays in early May. With our great guide, you'll be sure to see all the sights we think you should see. And we think that's just great!
@@ -18,8 +18,8 @@ _Warning: walking may have unexpected side effects. Unexpected effects are unexp
 ## Now get ready to get walking 
 Like this (be sure to have your tick gaiters on, if you want to look as cool as us!):
 
-<a  href="tackojebia/1b.jpg">
-<img src="tackojebia/1b.jpg" width="500" class="centerimg"/>
+<a  href="1b.jpg">
+<img src="1b.jpg" width="500" class="centerimg"/>
 </a>
 
 Oh, and as to _where_ to walk? Follow your Guide. 
