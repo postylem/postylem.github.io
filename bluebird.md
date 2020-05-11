@@ -3,8 +3,17 @@ layout: page
 title: bluebird twender
 ---
 
-May 10 2020.
+Twender May 10 2020, for Papa.
 
+Organized by Mima.
+
+Twendercrafters: 
+
+- Aliza and John
+- Zevi and Zoe
+- Katie and Jacob (_Tacko & Jebia_)
+
+---
 _Tacko & Jebia's Mother's Day Adventure Tour_ twender archived here.
 
 Starting materials were this map:
@@ -14,12 +23,10 @@ Starting materials were this map:
 and this guide:
 
 <a  href="guide1.jpg"><img src="guide1.jpg" width="100"/></a>
-<a  href="guid2e.jpg"><img src="guide2.jpg" width="100"/></a>
-
----
+<a  href="guide2.jpg"><img src="guide2.jpg" width="100"/></a>
 
 
-all other pages are here:
+all other _Tacko and Jebia_ pages are here:
 
 {% for item in site.bluebird %}
   - [{{ item.title }}]({{item.url}})
