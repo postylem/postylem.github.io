@@ -1,1 +1,1 @@
-[jahoo.github.io](https://jahoo.github.io)
+site moved to [jahoo.github.io](https://jahoo.github.io)
